@@ -1,0 +1,6 @@
+{
+  "name": "미니게임 연동 데모",
+  "description": "메인 앱과 미니게임 간 URL 파라미터를 이용한 데이터 전달 및 스탬프 획득 데모",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
